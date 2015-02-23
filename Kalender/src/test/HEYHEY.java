@@ -1,10 +1,12 @@
 package test;
 
+
+
 public class HEYHEY {
 public final String forentest = "gnksdjnks";
 
 
-public String søkdmgakldna(){
+public String sadsakdmgakldna(){
 	return "haha";
 }
 
